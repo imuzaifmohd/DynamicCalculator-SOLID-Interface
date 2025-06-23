@@ -11,7 +11,7 @@ namespace DynamicCalculator
                 new AddOperation(),
                 new SubtractOperation(),
                 new DeleteOperation(),
-                //new DivideOperation()
+                new DivideOperation()
             };
 
             Helper inputHelper = new Helper();
